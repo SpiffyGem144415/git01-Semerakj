@@ -17,5 +17,4 @@ Při spuštění serveru nenastaly žádné problémy.
 Kontrolní kód a záznam ze serveru:
 Doplním po spuštění ověřovacího skriptu.
 
-Bonus – AI obrázek a použitý prompt:
-Bonus zatím neplním.
+Bonus – nemám
