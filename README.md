@@ -5,8 +5,8 @@ Moje řešení:
 Distribuce a verze: Kali GNU/Linux Rolling 2026.2
 Použitý Vagrant box: kalilinux/rolling
 Adresář serveru: srv01
-Výsledek spuštění a přihlášení: Server se úspěšně spustil pomocí vagrant up, stav byl ověřen pomocí vagrant status a do serveru jsem se úspěšně přihlásil pomocí vagrant ssh. Distribuce byla ověřena příkazem cat /etc/os-release.
-Případné problémy a jejich řešení: Žádné problémy.
+Výsledek spuštění a přihlášení: Server se mi úspěšně spustil pomocí vagrant up, jeho stav jsem ověřil pomocí vagrant status a do serveru jsem se úspěšně přihlásil. Distribuci jsem si ověřil příkazem cat /etc/os-release.
+Případné problémy a jejich řešení: Přidání .gitignore: vytvořil jsem si omylem .gitignore do jiného adresáře. Řešení: Přemístil jsem soubor
 
 Kontrolní kód: SPOS-3I-376b1514f8874d6e93660affb2fe8dc7836c3b6645c12ffd1f1f56d7a6e3a860
 
